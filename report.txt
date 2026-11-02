@@ -1,0 +1,6 @@
+House_Price_Prediction/
+│
+├── venv/                      # Virtual environment folder
+├── train_model.py             # Python script containing code
+├── house_price_model.pkl      # Saved trained model (generated after running script)
+└── report.txt                 # Short report of findings
